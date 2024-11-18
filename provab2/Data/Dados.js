@@ -1,28 +1,27 @@
-export const info = [
+export const grupos = [
   {
-    nome: "TechWizards",
-    descricao: "Grupo focado em tecnologia e inovações.", 
-    integrantes: ["Lucas ", "Fernanda ", "João ", "Maria "]
+    nome: "GalaxyPioneers",
+    descricao: "Equipe dedicada à exploração do universo e tecnologias de ponta.",
+    integrantes: ["André", "Carla", "Roberto", "Luciana"]
   },
   {
-    nome: "EcoFuture",
-    descricao: "Grupo voltado para questões ambientais e sustentabilidade.", 
-    integrantes: ["Carlos ", "Beatriz ", "Ricardo ", "Juliana "]
+    nome: "GreenGuardians",
+    descricao: "Grupo de ativistas focado em iniciativas de preservação ambiental.",
+    integrantes: ["Paulo", "Sofia", "Marcos", "Clara"]
   },
   {
-    nome: "ArtisticVibes",
-    descricao: "Grupo dedicado às artes, música e criatividade.", 
-    integrantes: ["Vinícius ", "Gabriela ", "Pedro ", "Ana "]
+    nome: "CreativeMinds",
+    descricao: "Círculo de artistas apaixonados por inovação nas artes e cultura.",
+    integrantes: ["Ricardo", "Fernanda", "Beatriz", "Samuel"]
   },
   {
-    nome: "CodeBros",
-    descricao: "Desenvolvimento de software e programação como hobby.", 
-    integrantes: ["Felipe ", "Eduardo ", "Tatiane ", "Bruno "]
+    nome: "CodeMasters",
+    descricao: "Programadores que compartilham conhecimento sobre desenvolvimento de software.",
+    integrantes: ["Vinícius", "Isabela", "Felipe", "Marcelo"]
   },
   {
-    nome: "GamerSquad",
-    descricao: "Grupo de entusiastas de jogos online.", 
-    integrantes: ["Tiago ", "Carla ", "Roberto ", "Paula "]
-  },
-
+    nome: "PixelWarriors",
+    descricao: "Clube de jogadores competitivos e entusiastas de eSports.",
+    integrantes: ["Thiago", "Juliana", "Eduardo", "Patrícia"]
+  }
 ];
